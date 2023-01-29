@@ -2,6 +2,7 @@
     "name": "vuexy-vuetify-vuejs-admin-template",
     "version": "7.0.1",
     "scripts": {
+        "main": "src/index.js",
         "dev": "npm run build:icons && vite --host",
         "build": "npm run build:icons && vite build",
         "preview": "vite preview --port 5050",
